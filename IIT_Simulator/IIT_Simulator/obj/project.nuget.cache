@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VLKa4digYtCIZDdYituAGulpHScTDhx4CnARxQgKlGjVPxYmspW29Zgk4ALop/pgh8fF2pyG84SgNOFv2hRZzg==",
+  "success": true,
+  "projectFilePath": "G:\\Яяяя\\Программирование\\Творчество\\Семестровая\\backup 12.05.19\\IIT_Simulator\\IIT_Simulator\\IIT_Simulator\\IIT_Simulator\\IIT_Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\xforms.plugin.animationnavigationpage\\1.0.7\\xforms.plugin.animationnavigationpage.1.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
